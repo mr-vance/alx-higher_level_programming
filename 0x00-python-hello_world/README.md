@@ -23,4 +23,5 @@ This section focuses on the fundamental basics of Python programming, starting w
 
 ## Usage
 
-Each section includes simple exercises and code snippets to help you grasp Python basics. Modify and experiment with the code to enhance your understanding.
+1. Python scripts here start with `#!/usr/bin/python3` so you can also run them by the command `./<script_name>.py`
+2. Checking code style using Pycodestyle by running the command `pycodestyle <script_name>.py`. If you do not have Pycodestyle make sure you have pip installed first and then run `pip install pycodestyle`.
