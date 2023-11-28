@@ -1,4 +1,4 @@
-# ALX Higher Level Programming : Python Learning Program
+# ALX Higher Level Programming : Python
 
 ## Overview
 
