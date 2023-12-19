@@ -1,6 +1,6 @@
 # Python - Classes and Objects
 
-## Lessons
+## Topics Covered
 1. Why Python programming is awesome
 2. What is OOP
 3. “first-class everything”
