@@ -1,1 +1,1 @@
-# Solutions to tasks on Python - Object-relational mapping
+# readme file for this directory
